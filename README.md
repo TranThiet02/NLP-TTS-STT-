@@ -1,6 +1,5 @@
 Bộ dữ liệu LJSpeech là tập dữ liệu lời nói đơn ngữ (tiếng Anh) được sử dụng rộng rãi để huấn luyện các mô hình chuyển văn bản thành giọng nói (TTS - Text-to-Speech).
 
-STATISTICS
 -----------------------------------
 Total Clips            13,100
 Total Words            225,715
